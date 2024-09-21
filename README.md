@@ -22,13 +22,11 @@ cd web-scraper-go
 Terminal
 go mod init scraper
 The init command will initialize a scraper Go module inside your project root folder. You should now see a go.mod file with the following content in your root folder:
-
-
-# To the Run the project :
-go run . 
 go.mod
 module scraper
 go 1.22.0
 # Note that the last line can change depending on your Go version.
 
 
+# To the Run the project :
+go run . 
