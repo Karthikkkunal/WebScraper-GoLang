@@ -1,0 +1,12 @@
+[
+  "XSS: Possible/Vulnerable; Payload: \u003cscript\u003ealert('XSS detected!');\u003c/script\u003e; Status Code: 200",
+  "SQL INJECTION: Possible/Vulnerable; Payload: ' OR '1'='1; Status Code: 200",
+  "FileInclusion: Possible/Vulnerable; Payload: ../../../../etc/passwd; Status Code: 200",
+  "SecurityMisconfiguration: Possible/Vulnerable; Payload: /admin; Status Code: 200",
+  "Broken Authentication: Possible/Vulnerable; Password: password; Status Code: 200",
+  "Broken Authentication: Possible/Vulnerable; Password: 123456; Status Code: 200",
+  "Broken Authentication: Possible/Vulnerable; Password: admin; Status Code: 200",
+  "Broken Authentication: Possible/Vulnerable; Password: letmein; Status Code: 200",
+  "Broken Authentication: Possible/Vulnerable; Password: password1; Status Code: 200",
+  "Sensitive Data Exposure: Possible/Vulnerable; Keyword: password; Status Code: 200"
+]
