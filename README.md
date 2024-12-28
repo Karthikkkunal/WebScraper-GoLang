@@ -1,5 +1,5 @@
 # Vulnerability WebScraper-GoLang
-Web scraping, also known as web data extraction, is the process of extracting data from websites. This data can be in various formats, such as HTML, XML, JSON, or plain text. It involves using software to automatically fetch and parse web pages, extracting the desired information and storing it in a structured format.
+The Vulnerability WebScraper in GoLang is a powerful project designed to scrape web data and identify potential vulnerabilities by leveraging the Go programming language's efficiency and concurrency. Using libraries like Colly, it enables structured and reliable data extraction from OEM websites or vulnerability databases, focusing on high and critical severity issues. The project demonstrates key GoLang concepts such as goroutines for parallel scraping, HTTP request customization, error handling, and robust data management with JSON and CSV formats. By combining cybersecurity insights, ethical scraping practices, and Go's modular design, this project offers a practical foundation for building scalable, efficient tools for vulnerability assessment and reporting.
 
 # Before proceeding with this web scraping guide, ensure you have the necessary tools installed.
 
